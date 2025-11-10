@@ -338,4 +338,4 @@ dev_dependencies:
 
 **Built with ❤️ for CRED Flutter Internship Assignment**
 
-*This project demonstrates professional Flutter development skills including clean architecture, smooth animations, error handling, and cross-platform compatibility.*
+*This project demonstrates professional Flutter development skills including clean architecture, smooth animations, error handling, and cross-platform compatibility.*"# cred_flutter_assignment" 
